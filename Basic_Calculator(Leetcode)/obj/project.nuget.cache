@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oVHYRlX05FxBAWveJuSvsFYvITeoIWeAIF2F9lPKyUB7O1GMuL4wH50GXKIoPD0AVHE5kHV8ZcfrZKBz1Jg9cA==",
+  "success": true,
+  "projectFilePath": "/home/alex/Desktop/for_colleagues/Basic_Calculator(Leetcode)/test.csproj",
+  "expectedPackageFiles": [
+    "/home/alex/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.10/microsoft.aspnetcore.app.ref.7.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

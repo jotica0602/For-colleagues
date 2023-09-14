@@ -1,0 +1,60 @@
+/home/alex/Desktop/test/bin/Debug/net7.0/test
+/home/alex/Desktop/test/bin/Debug/net7.0/test.deps.json
+/home/alex/Desktop/test/bin/Debug/net7.0/test.runtimeconfig.json
+/home/alex/Desktop/test/bin/Debug/net7.0/test.dll
+/home/alex/Desktop/test/bin/Debug/net7.0/test.pdb
+/home/alex/Desktop/test/obj/Debug/net7.0/test.csproj.AssemblyReference.cache
+/home/alex/Desktop/test/obj/Debug/net7.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/Desktop/test/obj/Debug/net7.0/test.AssemblyInfoInputs.cache
+/home/alex/Desktop/test/obj/Debug/net7.0/test.AssemblyInfo.cs
+/home/alex/Desktop/test/obj/Debug/net7.0/test.csproj.CoreCompileInputs.cache
+/home/alex/Desktop/test/obj/Debug/net7.0/test.dll
+/home/alex/Desktop/test/obj/Debug/net7.0/refint/test.dll
+/home/alex/Desktop/test/obj/Debug/net7.0/test.pdb
+/home/alex/Desktop/test/obj/Debug/net7.0/test.genruntimeconfig.cache
+/home/alex/Desktop/test/obj/Debug/net7.0/ref/test.dll
+/home/alex/Desktop/Interpreter "Showcase" for classmates/bin/Debug/net7.0/test
+/home/alex/Desktop/Interpreter "Showcase" for classmates/bin/Debug/net7.0/test.deps.json
+/home/alex/Desktop/Interpreter "Showcase" for classmates/bin/Debug/net7.0/test.runtimeconfig.json
+/home/alex/Desktop/Interpreter "Showcase" for classmates/bin/Debug/net7.0/test.dll
+/home/alex/Desktop/Interpreter "Showcase" for classmates/bin/Debug/net7.0/test.pdb
+/home/alex/Desktop/Interpreter "Showcase" for classmates/obj/Debug/net7.0/test.csproj.AssemblyReference.cache
+/home/alex/Desktop/Interpreter "Showcase" for classmates/obj/Debug/net7.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/Desktop/Interpreter "Showcase" for classmates/obj/Debug/net7.0/test.AssemblyInfoInputs.cache
+/home/alex/Desktop/Interpreter "Showcase" for classmates/obj/Debug/net7.0/test.AssemblyInfo.cs
+/home/alex/Desktop/Interpreter "Showcase" for classmates/obj/Debug/net7.0/test.csproj.CoreCompileInputs.cache
+/home/alex/Desktop/Interpreter "Showcase" for classmates/obj/Debug/net7.0/test.dll
+/home/alex/Desktop/Interpreter "Showcase" for classmates/obj/Debug/net7.0/refint/test.dll
+/home/alex/Desktop/Interpreter "Showcase" for classmates/obj/Debug/net7.0/test.pdb
+/home/alex/Desktop/Interpreter "Showcase" for classmates/obj/Debug/net7.0/test.genruntimeconfig.cache
+/home/alex/Desktop/Interpreter "Showcase" for classmates/obj/Debug/net7.0/ref/test.dll
+/home/alex/Desktop/simple_interpreter/bin/Debug/net7.0/test
+/home/alex/Desktop/simple_interpreter/bin/Debug/net7.0/test.deps.json
+/home/alex/Desktop/simple_interpreter/bin/Debug/net7.0/test.runtimeconfig.json
+/home/alex/Desktop/simple_interpreter/bin/Debug/net7.0/test.dll
+/home/alex/Desktop/simple_interpreter/bin/Debug/net7.0/test.pdb
+/home/alex/Desktop/simple_interpreter/obj/Debug/net7.0/test.csproj.AssemblyReference.cache
+/home/alex/Desktop/simple_interpreter/obj/Debug/net7.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/Desktop/simple_interpreter/obj/Debug/net7.0/test.AssemblyInfoInputs.cache
+/home/alex/Desktop/simple_interpreter/obj/Debug/net7.0/test.AssemblyInfo.cs
+/home/alex/Desktop/simple_interpreter/obj/Debug/net7.0/test.csproj.CoreCompileInputs.cache
+/home/alex/Desktop/simple_interpreter/obj/Debug/net7.0/test.dll
+/home/alex/Desktop/simple_interpreter/obj/Debug/net7.0/refint/test.dll
+/home/alex/Desktop/simple_interpreter/obj/Debug/net7.0/test.pdb
+/home/alex/Desktop/simple_interpreter/obj/Debug/net7.0/test.genruntimeconfig.cache
+/home/alex/Desktop/simple_interpreter/obj/Debug/net7.0/ref/test.dll
+/home/alex/Desktop/for_colleagues/bin/Debug/net7.0/test
+/home/alex/Desktop/for_colleagues/bin/Debug/net7.0/test.deps.json
+/home/alex/Desktop/for_colleagues/bin/Debug/net7.0/test.runtimeconfig.json
+/home/alex/Desktop/for_colleagues/bin/Debug/net7.0/test.dll
+/home/alex/Desktop/for_colleagues/bin/Debug/net7.0/test.pdb
+/home/alex/Desktop/for_colleagues/obj/Debug/net7.0/test.csproj.AssemblyReference.cache
+/home/alex/Desktop/for_colleagues/obj/Debug/net7.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/Desktop/for_colleagues/obj/Debug/net7.0/test.AssemblyInfoInputs.cache
+/home/alex/Desktop/for_colleagues/obj/Debug/net7.0/test.AssemblyInfo.cs
+/home/alex/Desktop/for_colleagues/obj/Debug/net7.0/test.csproj.CoreCompileInputs.cache
+/home/alex/Desktop/for_colleagues/obj/Debug/net7.0/test.dll
+/home/alex/Desktop/for_colleagues/obj/Debug/net7.0/refint/test.dll
+/home/alex/Desktop/for_colleagues/obj/Debug/net7.0/test.pdb
+/home/alex/Desktop/for_colleagues/obj/Debug/net7.0/test.genruntimeconfig.cache
+/home/alex/Desktop/for_colleagues/obj/Debug/net7.0/ref/test.dll
