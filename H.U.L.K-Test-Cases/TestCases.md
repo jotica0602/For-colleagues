@@ -134,8 +134,8 @@ This are possible error messages.
 >!semantic error: function "fib" recieves 1 argument(s), but 2 were given.
 ```
 
-## Import Functionality Implemented
-
+## Import
+Some people may have implemented an "Import" functionality, this is for them.
 ### Valid Expression Inputs
 
 ```js
