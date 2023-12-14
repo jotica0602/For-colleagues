@@ -136,6 +136,8 @@ This are possible error messages.
 
 ## Import
 Some people may have implemented an "Import" functionality, this is for them.
+
+## Copy the code in a .txt file or whatever and run it.
 ### Valid Expression Inputs
 
 ```js
@@ -156,13 +158,21 @@ let x = 42 in print(x);
 fib(5);
 print(fib(6));
 let x = 3 in print(fib(x+3));
+function sum(n) => if(n <= 1) 1 else n + sum(n-1);
+sum(100);
+function fact(n) => if(n>1) n * fact(n-1) else 1;
+fact(10);
+let a = (let b = (let c = 30 in c) in b) in a > 2*5 & false;
+2^(3+2)^2;
 ```
 
 ### Invalid Expression Inputs
 
 ```js
 let 14a = 5 in print(14a);
+let a = (let b = (let c = 21 in c + 1) in b) in b - 22;
 let a = 5 in print(a;
+function f(a,2) => 3;
 let a = 5 inn print(a);
 let a = in print(a);
 let a = "hello world" in print(a + 5);
