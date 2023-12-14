@@ -155,6 +155,7 @@ function fib(n) => if (n > 1) fib(n-1) + fib(n-2) else 1;
 let x = 42 in print(x);
 fib(5);
 print(fib(6));
+let x = 3 in print(fib(x+3));
 ```
 
 ### Invalid Expression Inputs
